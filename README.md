@@ -1,4 +1,4 @@
-# Backup Account from scriptpan (it got suspended)
+# Backup Account from scripterpan (it got suspended)
 
 ## Welcome to Pann Hub :DDD
 
