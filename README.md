@@ -86,7 +86,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/scripterjauy/Backup/r
 - Universal
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/scripterpan/scripterpan/refs/heads/main/ScriptSrc/Universal.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scripterjauy/Backup/refs/heads/main/ScriptSrc/Universal.lua"))()
 ```
 
 ---
