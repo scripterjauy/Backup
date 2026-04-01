@@ -3,10 +3,10 @@ local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/rel
 local creator = game.CreatorId
 
 local games = {
-    [14179659] = 'https://raw.githubusercontent.com/scripterpan/scripterpan/refs/heads/main/ScriptSrc/RaiseAFloppa2.lua', -- Raise A Floppa 2
-    [8401765]  = 'https://raw.githubusercontent.com/scripterpan/scripterpan/refs/heads/main/ScriptSrc/JobApplication.lua', -- Survive The Job Application
-    [32900163] = 'https://raw.githubusercontent.com/scripterpan/scripterpan/refs/heads/main/ScriptSrc/PETAPETA.lua', -- PETAPETA (Original and School)
-    [7314991]  = 'https://raw.githubusercontent.com/scripterpan/scripterpan/refs/heads/main/ScriptSrc/Nightlight.lua' -- Nightlight (Horror)
+    [14179659] = 'https://raw.githubusercontent.com/scripterjauy/Backup/refs/heads/main/ScriptSrc/RaiseAFloppa2.lua', -- Raise A Floppa 2
+    [8401765]  = 'https://raw.githubusercontent.com/scripterjauy/Backup/refs/heads/main/ScriptSrc/JobApplication.lua', -- Survive The Job Application
+    [32900163] = 'https://raw.githubusercontent.com/scripterjauy/Backup/refs/heads/main/ScriptSrc/PETAPETA.lua', -- PETAPETA (Original and School)
+    [7314991]  = 'https://raw.githubusercontent.com/scripterjauy/Backup/refs/heads/main/ScriptSrc/Nightlight.lua' -- Nightlight (Horror)
 }
 
 WindUI:Popup({
@@ -104,7 +104,7 @@ WindUI:Popup({
 
                                     task.wait(1.25)
 
-                                    loadstring(game:HttpGet("https://raw.githubusercontent.com/scripterpan/scripterpan/refs/heads/main/ScriptSrc/Universal.lua"))()
+                                    loadstring(game:HttpGet("https://raw.githubusercontent.com/scripterjauy/Backup/refs/heads/main/ScriptSrc/Universal.lua"))()
 
                                     WindUI:Notify({
                                         Title = "Done!",
