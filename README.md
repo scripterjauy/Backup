@@ -80,7 +80,7 @@ You can use our loader to use the script :P
 - Main Loader
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/scripterpan/scripterpan/refs/heads/main/Loader/Main.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scripterjauy/Backup/refs/heads/main/Loader/Main.lua"))()
 ```
 
 - Universal
