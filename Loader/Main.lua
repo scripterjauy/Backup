@@ -4,14 +4,9 @@ local creator = game.CreatorId
 
 local games = {
     [14179659] = 'https://raw.githubusercontent.com/scripterpan/scripterpan/refs/heads/main/ScriptSrc/RaiseAFloppa2.lua', -- Raise A Floppa 2
-    [8509669]  = 'https://raw.githubusercontent.com/scripterpan/scripterpan/refs/heads/main/ScriptSrc/SolsRNG.lua', -- Sols RNG
-    [9482918]  = 'https://raw.githubusercontent.com/scripterpan/scripterpan/refs/heads/main/ScriptSrc/TheMimic.lua', -- The Mimic
     [8401765]  = 'https://raw.githubusercontent.com/scripterpan/scripterpan/refs/heads/main/ScriptSrc/JobApplication.lua', -- Survive The Job Application
     [32900163] = 'https://raw.githubusercontent.com/scripterpan/scripterpan/refs/heads/main/ScriptSrc/PETAPETA.lua', -- PETAPETA (Original and School)
-    [33541525] = 'https://raw.githubusercontent.com/scripterpan/scripterpan/refs/heads/main/ScriptSrc/7DTL.lua', -- 7 Days To Live
-    [7314991]  = 'https://raw.githubusercontent.com/scripterpan/scripterpan/refs/heads/main/ScriptSrc/Nightlight.lua', -- Nightlight (Horror)
-    [5449496] = 'https://raw.githubusercontent.com/scripterpan/scripterpan/refs/heads/main/ScriptSrc/FunkyFriday.lua', -- Funky Friday 
-    [16607943] = 'https://raw.githubusercontent.com/scripterpan/scripterpan/refs/heads/main/ScriptSrc/Create-A-Factory.lua' -- Create A Factory Tycoon
+    [7314991]  = 'https://raw.githubusercontent.com/scripterpan/scripterpan/refs/heads/main/ScriptSrc/Nightlight.lua' -- Nightlight (Horror)
 }
 
 WindUI:Popup({
