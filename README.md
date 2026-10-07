@@ -2,6 +2,8 @@
 
 ## Welcome to Pann Hub :DDD
 
+### Outdated
+
 ### THE SCRIPT I MADE ARE USING OLD WIND UI SO THE UI MIGHT BE OUTDATED AND HAVE A LOT OF BUGS⚠️⚠️
 
 ### Status
